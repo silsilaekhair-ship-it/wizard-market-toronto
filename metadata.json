@@ -1,0 +1,7 @@
+{
+  "name": "Wizard Market - Magic in Toronto",
+  "description": "A mystical, Harry Potter-themed gift shop website featuring an immersive design, product catalog, and store information located in the heart of Toronto.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
